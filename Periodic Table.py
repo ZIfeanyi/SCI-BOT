@@ -2,7 +2,7 @@ print("Welcome to Ifeanyi's SCI-BOT")
 from tkinter import *
 import math
 import tkinter.messagebox
-choice=input("Periodic table(1):\nScientific Calculator(2):\n ")
+choice=input("Periodic table(1): ")
 if choice=='1':    
         root = Tk()
 root.title("SCI-BOT Scientific Calculator IFEANYI")
